@@ -16,7 +16,7 @@ describe("Intern", () => {
 
     describe("getSchool", () => {
         it("should return the employee's school name", () => {
-            let intern = new Intern("Jill", "7", "jill@fakemail.com", "University of Windsor");
+            let intern = new Intern("Jill", "7", "jill@fakemail.com", "McMaster University");
 
             // Verify that the newly-created object's method returns the correct value
             expect(intern.getSchool()).toEqual("McMaster University");
