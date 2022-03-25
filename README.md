@@ -1,4 +1,4 @@
-# team-generator
+# Team Generator
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
@@ -8,7 +8,7 @@ This is an application that allows the user to enter employee names, ids, emails
 
 > Github Repository Link: [https://github.com/nevan-dsouza/team-generator](https://github.com/nevan-dsouza/team-generator)
 >
-> Video Link: 
+> Video Link: https://youtu.be/lfKq2-JguU0
 
 
 ## Table of Contents
@@ -36,7 +36,7 @@ The user must type "node index.js" in their console to run the file and answer t
 
 ### Video Demo
 
-https://youtu.be/lfKq2-JguU0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lfKq2-JguU0" title="YouTube video player" frameborder="0" allow="accelerometer autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## License
 
@@ -48,4 +48,4 @@ Test cases are given in the __tests__ folder. Run "npm run test" to see.
 
 ## Questions
 
-My GitHub Page: [Bickolus](https://github.com/nevan-dsouza)
+My GitHub Page: [nevan-dsouza](https://github.com/nevan-dsouza)
