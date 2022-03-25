@@ -36,7 +36,7 @@ The user must type "node index.js" in their console to run the file and answer t
 
 ### Video Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfKq2-JguU0" title="YouTube video player" frameborder="0" allow="accelerometer autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/lfKq2-JguU0/0.jpg)](https://youtu.be/lfKq2-JguU0)
 
 ## License
 
